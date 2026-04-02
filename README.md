@@ -1,6 +1,6 @@
-# Cosmic Heat
+# Space Fighter
 
-Cosmic Heat is a fast arcade shooter built with Python and Pygame. You launch from the mission hangar, push through ten escalating sectors, collect refills and score boosts, and survive long enough to clear each level's objective.
+Space Fighter is a fast arcade shooter built with Python and Pygame. You launch from the mission hangar, push through ten escalating sectors, collect refills and score boosts, and survive long enough to clear each level's objective.
 
 ## What The Project Includes
 
